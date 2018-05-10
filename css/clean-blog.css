@@ -6,12 +6,17 @@ body {
 }
 
 body {
- background-color: rgb(227, 227, 227);
+ background-color: #000;
+}
+
+hr {
+  color : #6C757D;
 }
 
 p {
   line-height: 1.5;
   margin: 30px 0;
+  color :#ffffff78;
 }
 
 p a {
@@ -43,6 +48,14 @@ blockquote {
   font-style: italic;
   color: #868e96;
 }
+
+hr{
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #6C757D;
+
+}
+
 
 .section-heading {
   font-size: 36px;
@@ -291,13 +304,13 @@ header.masthead .post-heading .meta a {
   font-size: 30px;
   margin-top: 30px;
   margin-bottom: 10px;
-  color :white;
+  color :#6C757D;
 }
 
 .post-preview > a > .post-subtitle {
   font-weight: 300;
   margin: 0 0 10px;
-  color :white;
+  color :#6C757D;
 
 }
 
@@ -305,12 +318,12 @@ header.masthead .post-heading .meta a {
   font-size: 18px;
   font-style: italic;
   margin-top: 0;
-  color :white;
+  color :#ffffff4D;
 }
 
 .post-preview > .post-meta > a {
   text-decoration: none;
- color :white;
+ color :#ffffff4D;
 }
 
 .post-preview > .post-meta > a:focus, .post-preview > .post-meta > a:hover {
